@@ -1,0 +1,13 @@
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\bin\Debug\SignIn.exe.config
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\bin\Debug\SignIn.exe
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\bin\Debug\SignIn.pdb
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.csprojAssemblyReference.cache
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.EditRoster.resources
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.Form1.resources
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.Properties.Resources.resources
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.csproj.GenerateResource.cache
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.exe
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.pdb
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.Password.resources
+C:\Users\Henry\Google Drive\Visual Studio\SignIn\SignIn\SignIn\obj\Debug\SignIn.Data.resources
